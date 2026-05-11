@@ -92,3 +92,24 @@ If the article takes 30 minutes or longer to read:
 
 There aren't tests for this feature, so you'll have to rely on running the code
 in the browser to see if your implementation works!
+
+## Running the Project
+
+To start the site locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Open the URL shown in the terminal (usually `http://localhost:5173`).
+
+To run the tests:
+
+```bash
+npm test
+```
+
+## Screenshot
+
+![Blog Site Screenshot](images/demo.png)
